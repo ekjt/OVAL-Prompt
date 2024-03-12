@@ -6,3 +6,10 @@ In order for robots to use tools effectively, they must understand the form and 
 
 ### System Overview
 ![Teaser Image](teaser.png)
+
+### Results
+![UMD results](UMD_result.png)
+
+![AGD20K results](AGD20K_result.png)
+
+
