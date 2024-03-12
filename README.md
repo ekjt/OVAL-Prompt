@@ -7,6 +7,9 @@ In order for robots to use tools effectively, they must understand the form and 
 ### System Overview
 ![Teaser Image](teaser.png)
 
+### Video Results
+[![Watch the video]()](https://youtu.be/fXvYo-0AJek)
+
 ### Quantitative Results
 ![UMD results](UMD_result.png)
 
